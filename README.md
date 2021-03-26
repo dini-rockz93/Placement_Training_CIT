@@ -1,7 +1,7 @@
 # Placement_Training_CIT
 Code and materials for the classes conducted in the month of March
 
-### Problems solved
+### Problems solved in the class
 
 - swapping two numbers
 - power of two
@@ -17,10 +17,14 @@ Code and materials for the classes conducted in the month of March
 - Fibonacci 
 
 
-### Helpful Links
+### Helpful Links to get you started
 
 [TutorialsPoint](https://www.tutorialspoint.com/)
+
 [studytonight](https://www.studytonight.com/)
+
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
 [Hackerank](https://www.hackerrank.com)
-[Leetcode]
+
+[w3schools](https://www.w3schools.com)
