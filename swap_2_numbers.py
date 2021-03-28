@@ -1,13 +1,5 @@
 def swap(a: int, b: int) -> None:
-    
-    """Swap two variables
-    
-    Inputs: a, b => int
-    Output: None
-    
-    """        
-    
-    
+       
     print("Before swapping ", a, b)
     a = a ^ b
     b = a ^ b
