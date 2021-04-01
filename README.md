@@ -13,8 +13,7 @@ Code and materials for the classes conducted in the month of March
 - prime number
 - Fibonacci Number
 - GCD of two numbers
-- Factorial 
-- Fibonacci 
+
 
 
 ### Helpful Links to get you started
